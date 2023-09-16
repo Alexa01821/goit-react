@@ -1,4 +1,3 @@
-// import { nanoid } from 'nanoid';
 import { Component } from 'react';
 import { Container } from './AppStyled';
 import { FormRegistration } from './FormRegistration/FormRegistration';
